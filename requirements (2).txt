@@ -1,5 +1,0 @@
-streamlit
-tensorflow==2.20.0
-numpy
-pillow
-protobuf==3.20.*
